@@ -1,6 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-jp"
-title = "My New Hugo Site"
-theme = "ananke"
-[markup.goldmark.renderer]
-  unsafe = true
